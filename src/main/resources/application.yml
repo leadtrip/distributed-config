@@ -1,0 +1,6 @@
+# your config goes here
+greeting:
+  prefix: 'Bonjour '
+endpoints:
+  refresh:
+    sensitive: false
